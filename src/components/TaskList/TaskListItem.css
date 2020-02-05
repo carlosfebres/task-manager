@@ -1,0 +1,10 @@
+.ant-list-item {
+    flex-wrap: wrap;
+}
+.flexRow {
+    flex-grow: 1;
+    flex-basis: 100%;
+    background-color: rgba(170,170,170, .2);
+    padding: 15px;
+    border-radius: 5px;
+}

@@ -1,0 +1,12 @@
+.fixed-action-btn {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+}
+
+.button {
+    width: 70px !important;
+    height: 70px !important;
+    font-size: 25px !important;
+    line-height: 25px;
+}

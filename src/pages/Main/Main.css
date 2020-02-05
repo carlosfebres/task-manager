@@ -1,0 +1,13 @@
+@import '../../../node_modules/antd/dist/antd.css';
+
+
+body {
+    background: lightgrey;
+}
+.alignCenter {
+    display: flex;
+    justify-content: center;
+}
+.mainContainer {
+    width: 500px;
+}
